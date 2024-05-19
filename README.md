@@ -28,9 +28,7 @@ Sinta-se à vontade para contribuir com este projeto:
 Relatar bugs ou sugerir melhorias por meio de problemas do GitHub.
 Bifurcando o repositório,fazendo mudanças,e criação de solicitações pull para revisão.
 Fornecer feedback ou sugestões abrindo um problema.
-Licença
 
-[Escolha uma licença apropriada para o seu projeto,como MIT ou Apache 2.0.Você pode encontrar informações sobre licenças de código aberto em ChooseAlicense.com.]
 
 Notas Adicionais
 
